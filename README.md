@@ -44,6 +44,8 @@
 
 [![codewars](https://www.codewars.com/users/Artem-kochetkov-94/badges/large)](https://www.codewars.com/users/Artem-kochetkov-94)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/artem_10_14)](https://leetcode.com/artem_10_14)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artem-kochetkov-94&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
